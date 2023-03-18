@@ -2,7 +2,7 @@ package huaweicloud
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"reflect"
 
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"

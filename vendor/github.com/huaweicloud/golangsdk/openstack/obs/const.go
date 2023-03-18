@@ -417,7 +417,7 @@ var (
 		"lavs":    "audio/x-liquid-secure",
 		"lbm":     "application/x-lbm",
 		"lmsff":   "audio/x-la-lms",
-		"log":     "text/plain",
+		log "github.com/sourcegraph-ce/logrus":     "text/plain",
 		"ls":      "application/x-javascript",
 		"ltr":     "application/x-ltr",
 		"m1v":     "video/x-mpeg",
