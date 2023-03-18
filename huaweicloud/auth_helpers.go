@@ -1,7 +1,7 @@
 package huaweicloud
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"time"
 
