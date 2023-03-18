@@ -1,7 +1,7 @@
 package huaweicloud
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"regexp"
 
 	"github.com/aws/aws-sdk-go/aws"

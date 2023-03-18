@@ -2,7 +2,7 @@ package huaweicloud
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"github.com/huaweicloud/golangsdk/openstack/sfs/v2/shares"
 
